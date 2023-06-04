@@ -15,7 +15,8 @@ function App() {
   );
 }
 
-
+ルーティングの実装。react-router-dom をダウンロード
+npm i react-router-dom
 
 # Getting Started with Create React App
 
