@@ -1,6 +1,21 @@
 npx create-react-app react-bootstrap-portfolio
 npm start
 
+スニペット
+rafce
+
+Header componentの読み込み
+App.jsにて Headerを一文字削除して再入力することで、補完から、自動でimportしてくれる。
+
+function App() {
+  return (
+    <div className="App">
+      <Header />
+    </div>
+  );
+}
+
+
 
 # Getting Started with Create React App
 
