@@ -18,6 +18,12 @@ function App() {
 ルーティングの実装。react-router-dom をダウンロード
 npm i react-router-dom
 
+bootstrap5 使い方
+https://react-bootstrap-v4.netlify.app/getting-started/introduction/
+  npm install react-bootstrap bootstrap@5.1.3
+index.js
+  import 'bootstrap/dist/css/bootstrap.min.css';
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
